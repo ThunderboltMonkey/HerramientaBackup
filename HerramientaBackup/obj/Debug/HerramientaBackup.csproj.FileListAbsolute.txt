@@ -1,0 +1,13 @@
+c:\users\monkey\documents\visual studio 2013\Projects\HerramientaBackup\HerramientaBackup\bin\Debug\HerramientaBackup.exe.config
+c:\users\monkey\documents\visual studio 2013\Projects\HerramientaBackup\HerramientaBackup\bin\Debug\HerramientaBackup.exe
+c:\users\monkey\documents\visual studio 2013\Projects\HerramientaBackup\HerramientaBackup\bin\Debug\HerramientaBackup.pdb
+c:\users\monkey\documents\visual studio 2013\Projects\HerramientaBackup\HerramientaBackup\bin\Debug\MySql.Data.dll
+c:\users\monkey\documents\visual studio 2013\Projects\HerramientaBackup\HerramientaBackup\bin\Debug\MySqlBackup.dll
+c:\users\monkey\documents\visual studio 2013\Projects\HerramientaBackup\HerramientaBackup\obj\Debug\HerramientaBackup.csprojResolveAssemblyReference.cache
+c:\users\monkey\documents\visual studio 2013\Projects\HerramientaBackup\HerramientaBackup\obj\Debug\HerramientaBackup.Form1.resources
+c:\users\monkey\documents\visual studio 2013\Projects\HerramientaBackup\HerramientaBackup\obj\Debug\HerramientaBackup.Properties.Resources.resources
+c:\users\monkey\documents\visual studio 2013\Projects\HerramientaBackup\HerramientaBackup\obj\Debug\HerramientaBackup.csproj.GenerateResource.Cache
+c:\users\monkey\documents\visual studio 2013\Projects\HerramientaBackup\HerramientaBackup\obj\Debug\HerramientaBackup.exe
+c:\users\monkey\documents\visual studio 2013\Projects\HerramientaBackup\HerramientaBackup\obj\Debug\HerramientaBackup.pdb
+C:\Users\Monkey\Documents\Visual Studio 2013\Projects\HerramientaBackup\HerramientaBackup\obj\Debug\HerramientaBackup.FormaRespaldo.resources
+C:\Users\Monkey\Documents\Visual Studio 2013\Projects\HerramientaBackup\HerramientaBackup\obj\Debug\HerramientaBackup.FormaRestaura.resources
